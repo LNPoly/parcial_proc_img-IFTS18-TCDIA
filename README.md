@@ -38,11 +38,10 @@ Para cargar la imagen, elegir la opción 1 para poder establecer la ruta de la i
 ## Aplicar efectos
 
   - Escala de grises: Eligiendo la opcion 2, aplicamos el efecto de escala de grises sobre la imagen cargada previamente con la opcion 1 del menú.
-  
+    
+    <img width="793" height="58" alt="aplicando_efecto" src="https://github.com/user-attachments/assets/7f9a32e8-0182-4107-a60f-278efd59eeef" />
 
-<img width="627" height="88" alt="selección de opcion" src="https://github.com/user-attachments/assets/63426d84-1699-4a08-82a4-be66edcb1804" />
-
-- Resultado: La imagen con el efecto aplicado, se guarda con un nuevo nombre en una carpeta llamada 'resultados'.
+  - Resultado: La imagen con el efecto aplicado, se guarda con un nuevo nombre en una carpeta llamada 'resultados'.
 
 <img width="324" height="65" alt="guardado_resultado" src="https://github.com/user-attachments/assets/0c607252-2e1f-44dc-9e1e-b3108214f80d" />
 
